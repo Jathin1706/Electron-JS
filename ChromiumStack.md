@@ -3,7 +3,7 @@
 
 ---
 
-<h3 id="key-components-of-the-chromium-stack"><strong>Key Components of the Chromium Stack</strong></h3>
+<h1 id="key-components-of-the-chromium-stack"><strong>Key Components of the Chromium Stack</strong></h1>
 <ol>
 <li>
 <p><strong>Blink (Rendering Engine)</strong></p>
